@@ -1,1 +1,2 @@
-this is the introduction.
+Hello my name is Atharva Sadhye and this is my first college repository for devops practical.
+I'm from SIES College of Management.
